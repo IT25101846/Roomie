@@ -1,5 +1,0 @@
-R001,101,Standard,5500.00,2,Garden view,WiFi|AC|TV,AVAILABLE
-R002,102,Standard,5500.00,2,Pool view,WiFi|AC|TV,AVAILABLE
-R003,201,Deluxe,9500.00,3,Ocean view,WiFi|AC|TV|Balcony|Mini Bar,AVAILABLE
-R004,202,Deluxe,9500.00,3,Garden view,WiFi|AC|TV|Balcony|Mini Bar,AVAILABLE
-R005,301,Suite,18000.00,4,Panoramic,WiFi|AC|TV|Jacuzzi|Balcony|Butler Service,AVAILABLE

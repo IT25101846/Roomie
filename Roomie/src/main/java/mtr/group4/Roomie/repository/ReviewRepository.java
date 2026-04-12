@@ -87,6 +87,7 @@ public class ReviewRepository implements Storable<Review> {
             try { max = Math.max(max, Integer.parseInt(r.getReviewId().replace("REV", ""))); }
             catch (NumberFormatException ignored) {}
         }
+        
         return String.format("REV%04d", max + 1);
     }
 }

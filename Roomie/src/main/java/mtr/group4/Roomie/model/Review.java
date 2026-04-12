@@ -25,8 +25,7 @@ public class Review extends BaseEntity {
         this.reviewDate   = reviewDate;
     }
 
-    @Override 
-    public String getEntityType() { return "REVIEW"; }
+    @Override public String getEntityType() { return "REVIEW"; }
 
     public String getStars() {
         StringBuilder sb = new StringBuilder();

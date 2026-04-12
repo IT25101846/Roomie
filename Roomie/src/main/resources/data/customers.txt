@@ -1,4 +1,0 @@
-C001,Alice,Fernando,alice@email.com,pass123,+94771234567,12 Galle Rd Colombo,2024-01-10
-C002,Bob,Perera,bob@email.com,pass123,+94779876543,5 Kandy Rd Matara,2024-01-12
-C003,it25101494,I,it25101494@my.sliit.lk,123456,,,2026-03-13
-C004,Isumdee,Hansanee,isumdihansani1@gmail.com,admin123,0706331915,40/2, Weerasingha Road, Beliatta,2026-03-19

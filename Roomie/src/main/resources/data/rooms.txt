@@ -1,6 +1,0 @@
-R001,101,Standard,5500.00,2,Comfortable standard room with garden view,AVAILABLE,WiFi|AC|TV
-R002,201,Deluxe,8500.00,2,Spacious deluxe room with sea view,AVAILABLE,WiFi|AC|TV|Mini-bar
-R003,301,Suite,15000.00,4,Luxury suite with private balcony,AVAILABLE,WiFi|AC|TV|Mini-bar|Jacuzzi
-R001,101,Standard,5000.00,2,Comfortable standard room,AVAILABLE,WiFi|AC|TV
-R002,201,Deluxe,8500.00,2,Elegant deluxe room with sea view,AVAILABLE,WiFi|AC|TV|Mini-bar|Balcony
-R003,301,Suite,15000.00,4,Luxury suite with all amenities,AVAILABLE,WiFi|AC|TV|Mini-bar|Jacuzzi|Balcony|Kitchen

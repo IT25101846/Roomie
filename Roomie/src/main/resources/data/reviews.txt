@@ -1,3 +1,0 @@
-FDB001|C003|R002|3|ok |2026-03-13|true
-FDB002|C003|R002|5|Good 👌👌|2026-03-13|false
-FDB005|C003|R001|5|Very Good Service. Highly Recommended 👌|2026-03-13|true

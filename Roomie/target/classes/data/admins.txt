@@ -1,1 +1,0 @@
-ADM001,admin,admin123,SUPER_ADMIN,admin@roomie.com,2024-01-01

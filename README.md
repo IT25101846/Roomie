@@ -1,5 +1,6 @@
 
-# Roomie 🏨
+#<img width="2388" height="608" alt="light_mode" src="https://github.com/user-attachments/assets/7bfcb5c8-f1fd-48e2-b220-5817699bb045" />
+
 ### Hotel Room Booking System
 
 > **SE1020 – Object Oriented Programming | SLIIT Year 01, Semester 02**
